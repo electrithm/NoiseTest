@@ -1,4 +1,3 @@
 # NoiseTest
-Noise
 
-Test in C#
+Noise Test in C#
